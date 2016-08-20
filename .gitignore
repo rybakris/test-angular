@@ -8,5 +8,4 @@ scripts/config.js
 build/letlife
 build/vendors
 build/view
-build/index.html
 coverage
